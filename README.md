@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://gokulakumarans.pages.dev/face/" title="Open the cursor-reactive portrait">
+<a href="https://gokulakumarans.pages.dev" title="Open the cursor-reactive portrait">
   <img src="assets/face.svg" alt="Animated portrait of Gokula Kumaran, typeset from his name and code symbols" width="880">
 </a>
 
