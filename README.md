@@ -20,7 +20,7 @@ I build game worlds in Unity and products on the web. Most of my projects start 
 I'm a second-year B.Tech Computer Science and Business Systems student at Ramco Institute of Technology, which means I think about both the engineering and the product.
 
 ```csharp
-public class Gokula : Developer
+public class Gokulakumarans : Developer
 {
     public string[] Builds   = { "Game worlds", "Full-stack apps", "AI study tools" };
     public string   Engine   = "Unity HDRP";
