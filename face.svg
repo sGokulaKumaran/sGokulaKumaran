@@ -1,0 +1,554 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 740" width="880" height="740" role="img" aria-label="Animated glyph portrait of Gokula Kumaran, typeset from his name and code symbols" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><radialGradient id="n1" cx="22%" cy="30%" r="55%"><stop offset="0" stop-color="#5a3cff" stop-opacity=".28"/><stop offset="1" stop-color="#5a3cff" stop-opacity="0"/></radialGradient>
+<radialGradient id="n2" cx="85%" cy="90%" r="50%"><stop offset="0" stop-color="#00c8ff" stop-opacity=".18"/><stop offset="1" stop-color="#00c8ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="880" height="740" rx="18" fill="#05060A"/><rect width="880" height="740" rx="18" fill="url(#n1)"/><rect width="880" height="740" rx="18" fill="url(#n2)"/>
+<circle cx="289" cy="114" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="325" cy="51" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.7s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="73" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="823" cy="438" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.1s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="848" cy="43" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.8s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<circle cx="113" cy="221" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.0s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="173" cy="78" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.0s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="437" cy="371" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.6s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="322" cy="180" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.6s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<circle cx="504" cy="367" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.8s" begin="-1.7s" repeatCount="indefinite"/></circle>
+<circle cx="851" cy="92" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.2s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="811" cy="297" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.9s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="761" cy="224" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.2s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle cx="403" cy="580" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.6s" begin="-4.0s" repeatCount="indefinite"/></circle>
+<circle cx="64" cy="486" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.8s" begin="-2.3s" repeatCount="indefinite"/></circle>
+<circle cx="584" cy="27" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.1s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="435" cy="160" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.1s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<circle cx="347" cy="601" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.2s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="105" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.4s" begin="-1.7s" repeatCount="indefinite"/></circle>
+<circle cx="367" cy="255" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.8s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<circle cx="163" cy="169" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.6s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="168" cy="203" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.4s" begin="-2.2s" repeatCount="indefinite"/></circle>
+<circle cx="497" cy="656" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.6s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="827" cy="472" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.3s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="424" cy="283" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-1.3s" repeatCount="indefinite"/></circle>
+<circle cx="151" cy="242" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.0s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="471" cy="653" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="334" cy="441" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.2s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="111" cy="342" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.7s" begin="-1.9s" repeatCount="indefinite"/></circle>
+<circle cx="135" cy="519" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.7s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="454" cy="151" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.2s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="35" cy="369" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.6s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="326" cy="125" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.9s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="294" cy="163" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.1s" begin="-4.9s" repeatCount="indefinite"/></circle>
+<circle cx="645" cy="165" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.1s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle cx="36" cy="201" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.4s" begin="-3.6s" repeatCount="indefinite"/></circle>
+<circle cx="307" cy="559" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.8s" begin="-2.2s" repeatCount="indefinite"/></circle>
+<circle cx="201" cy="165" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.0s" begin="-2.9s" repeatCount="indefinite"/></circle>
+<circle cx="855" cy="425" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.7s" begin="-3.9s" repeatCount="indefinite"/></circle>
+<circle cx="696" cy="69" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.6s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="654" cy="335" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.5s" begin="-3.8s" repeatCount="indefinite"/></circle>
+<circle cx="86" cy="652" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.6s" begin="-4.5s" repeatCount="indefinite"/></circle>
+<circle cx="85" cy="119" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.6s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle cx="410" cy="455" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.5s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="482" cy="101" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.1s" begin="-4.4s" repeatCount="indefinite"/></circle>
+<circle cx="100" cy="519" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.5s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="719" cy="155" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.5s" begin="-3.0s" repeatCount="indefinite"/></circle>
+<circle cx="666" cy="232" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.3s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<circle cx="645" cy="619" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.2s" begin="-5.3s" repeatCount="indefinite"/></circle>
+<circle cx="124" cy="115" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.4s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="533" cy="537" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.3s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="633" cy="388" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.6s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="425" cy="537" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.6s" begin="-1.7s" repeatCount="indefinite"/></circle>
+<circle cx="673" cy="355" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.9s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="391" cy="426" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.6s" begin="-2.7s" repeatCount="indefinite"/></circle>
+<circle cx="468" cy="335" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.6s" begin="-5.3s" repeatCount="indefinite"/></circle>
+<circle cx="819" cy="187" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.3s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="116" cy="311" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.5s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<circle cx="194" cy="217" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.5s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<circle cx="625" cy="458" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.6s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="412" cy="517" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.3s" begin="-2.9s" repeatCount="indefinite"/></circle>
+<circle cx="859" cy="575" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.7s" begin="-6.0s" repeatCount="indefinite"/></circle>
+<circle cx="358" cy="297" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.9s" begin="-4.3s" repeatCount="indefinite"/></circle>
+<circle cx="29" cy="387" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.7s" begin="-2.3s" repeatCount="indefinite"/></circle>
+<circle cx="455" cy="212" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.0s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="208" cy="604" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.7s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle cx="679" cy="195" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.2s" begin="-5.1s" repeatCount="indefinite"/></circle>
+<circle cx="591" cy="651" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.2s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="485" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.8s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="169" cy="617" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.7s" begin="-3.8s" repeatCount="indefinite"/></circle>
+<circle cx="698" cy="69" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="400" cy="241" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.7s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="123" cy="368" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.7s" begin="-5.8s" repeatCount="indefinite"/></circle>
+<circle cx="236" cy="134" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.3s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="188" cy="313" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.7s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="863" cy="37" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.8s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="174" cy="333" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.0s" begin="-4.9s" repeatCount="indefinite"/></circle>
+<circle cx="382" cy="347" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.9s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<circle cx="196" cy="167" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.2s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="556" cy="286" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.9s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="24" cy="435" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.4s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="581" cy="269" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.2s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="51" cy="137" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.5s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="835" cy="669" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.6s" begin="-5.8s" repeatCount="indefinite"/></circle>
+<circle cx="277" cy="253" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.0s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="251" cy="455" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.8s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<circle cx="238" cy="73" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.1s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="268" cy="438" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.1s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="654" cy="456" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.9s" begin="-4.3s" repeatCount="indefinite"/></circle>
+<circle cx="435" cy="204" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.7s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="776" cy="436" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.6s" begin="-4.5s" repeatCount="indefinite"/></circle>
+<circle cx="499" cy="562" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.2s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle cx="776" cy="474" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.9s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="557" cy="661" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.3s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="549" cy="435" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.7s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<circle cx="695" cy="518" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.5s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<circle cx="643" cy="182" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.3s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="168" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.7s" begin="-2.3s" repeatCount="indefinite"/></circle>
+<circle cx="422" cy="474" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.3s" begin="-3.9s" repeatCount="indefinite"/></circle>
+<circle cx="78" cy="112" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.4s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="544" cy="102" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.8s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="587" cy="480" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.8s" begin="-3.1s" repeatCount="indefinite"/></circle>
+<circle cx="410" cy="327" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="7.0s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="279" cy="70" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="2.6s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="714" cy="666" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="7.0s" begin="-2.3s" repeatCount="indefinite"/></circle>
+<circle cx="797" cy="641" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.1s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<circle cx="461" cy="656" r="0.8" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="5.2s" begin="-3.8s" repeatCount="indefinite"/></circle>
+<circle cx="251" cy="88" r="1" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="3.5s" begin="-5.4s" repeatCount="indefinite"/></circle>
+<circle cx="428" cy="29" r="0.6" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="6.8s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<circle cx="359" cy="504" r="1.4" fill="#cfe0ff" opacity=".5"><animate attributeName="opacity" values=".15;.9;.15" dur="4.0s" begin="-1.9s" repeatCount="indefinite"/></circle>
+<g transform="rotate(-18 311 340)"><ellipse cx="311" cy="340" rx="330" ry="120" fill="none" stroke="#ffd479" stroke-opacity=".22" stroke-dasharray="2 6"/><circle r="3.2" fill="#ffd479"><animateMotion dur="22s" repeatCount="indefinite" path="M-19,340 a330,120 0 1,0 660,0 a330,120 0 1,0 -660,0"/></circle></g>
+<g transform="rotate(24 311 340)"><ellipse cx="311" cy="340" rx="300" ry="150" fill="none" stroke="#6fe3ff" stroke-opacity=".22" stroke-dasharray="2 6"/><circle r="3.2" fill="#6fe3ff"><animateMotion dur="31s" repeatCount="indefinite" path="M11,340 a300,150 0 1,0 600,0 a300,150 0 1,0 -600,0"/></circle></g>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.75" xml:space="preserve">
+<g fill="#2a3f86">
+<text x="264.0" y="149.2" textLength="99.4" lengthAdjust="spacing">.'`            ,.</text>
+<text x="228.9" y="159.0" textLength="152.1" lengthAdjust="spacing">.'`                      '</text>
+<text x="386.8" y="168.8" textLength="11.7" lengthAdjust="spacing">'`</text>
+<text x="404.4" y="178.5" textLength="5.8" lengthAdjust="spacing">`</text>
+<text x="416.1" y="188.2" textLength="5.8" lengthAdjust="spacing">`</text>
+<text x="421.9" y="198.0" textLength="5.8" lengthAdjust="spacing">'</text>
+<text x="427.8" y="207.8" textLength="5.8" lengthAdjust="spacing">.</text>
+<text x="334.2" y="256.5" textLength="105.3" lengthAdjust="spacing">`,.'`,.'        `,</text>
+<text x="193.8" y="266.2" textLength="245.7" lengthAdjust="spacing">.'`,.'  .'`,          `,.'`,.            '</text>
+<text x="211.3" y="276.0" textLength="234.0" lengthAdjust="spacing">'`,.     `,       ,.'`,               ,.</text>
+<text x="269.9" y="285.8" textLength="181.3" lengthAdjust="spacing">'        `,.                 `,</text>
+<text x="246.4" y="295.5" textLength="204.8" lengthAdjust="spacing">,   ,                             '</text>
+<text x="258.1" y="305.2" textLength="198.9" lengthAdjust="spacing">,.           .'`,.'`,.'         ,.</text>
+<text x="211.3" y="315.0" textLength="251.5" lengthAdjust="spacing">'`,                    .'`,.'`,.'        `,</text>
+<text x="205.5" y="324.8" textLength="251.5" lengthAdjust="spacing">`                          '`,.           .</text>
+<text x="187.9" y="334.5" textLength="274.9" lengthAdjust="spacing">'`,.         `                                ,</text>
+<text x="451.2" y="344.2" textLength="11.7" lengthAdjust="spacing">.'</text>
+<text x="281.5" y="354.0" textLength="198.9" lengthAdjust="spacing">'                            `,.'`</text>
+<text x="252.3" y="363.8" textLength="245.7" lengthAdjust="spacing">`     .  ,.'`,                     '`, '`,</text>
+<text x="252.3" y="373.5" textLength="251.5" lengthAdjust="spacing">.     `,    .'`                          '`</text>
+<text x="246.4" y="383.2" textLength="257.4" lengthAdjust="spacing">'     ,.                               .'  .</text>
+<text x="240.6" y="393.0" textLength="269.1" lengthAdjust="spacing">`,                                       ,.  ,</text>
+<text x="451.2" y="402.8" textLength="58.5" lengthAdjust="spacing">.'       '</text>
+<text x="462.9" y="412.5" textLength="52.6" lengthAdjust="spacing">.      ,.</text>
+<text x="264.0" y="422.2" textLength="251.5" lengthAdjust="spacing">.'`,.'`  '                                `</text>
+<text x="264.0" y="432.0" textLength="251.5" lengthAdjust="spacing">`,.'  .'`  '`,.'`,                       ,.</text>
+<text x="351.8" y="441.8" textLength="157.9" lengthAdjust="spacing">,.'                       '</text>
+<text x="498.0" y="451.5" textLength="11.7" lengthAdjust="spacing">`,</text>
+<text x="269.9" y="461.2" textLength="234.0" lengthAdjust="spacing">'`,.'`,.'`                             .</text>
+<text x="293.2" y="471.0" textLength="210.6" lengthAdjust="spacing">,.'`,.'                           '`</text>
+<text x="287.4" y="480.8" textLength="210.6" lengthAdjust="spacing">.'                         ,.     `,</text>
+<text x="445.3" y="490.5" textLength="46.8" lengthAdjust="spacing">'`,.'`,.</text>
+<text x="445.3" y="500.2" textLength="5.8" lengthAdjust="spacing">,</text>
+<text x="439.5" y="510.0" textLength="5.8" lengthAdjust="spacing">.</text>
+<text x="421.9" y="519.8" textLength="23.4" lengthAdjust="spacing">,. `</text>
+<text x="392.7" y="529.5" textLength="52.6" lengthAdjust="spacing">.'`,.'  .</text>
+<text x="340.0" y="539.2" textLength="111.1" lengthAdjust="spacing">'  .'        `   `,</text>
+<text x="404.4" y="549.0" textLength="46.8" lengthAdjust="spacing">`,    .'</text>
+<text x="398.5" y="558.8" textLength="52.6" lengthAdjust="spacing">,.     `,</text>
+<text x="392.7" y="568.5" textLength="58.5" lengthAdjust="spacing">.       .'</text>
+<text x="386.8" y="578.2" textLength="64.3" lengthAdjust="spacing">'         ,</text>
+<text x="381.0" y="588.0" textLength="70.2" lengthAdjust="spacing">`         .'</text>
+<text x="363.4" y="597.8" textLength="93.6" lengthAdjust="spacing">'            `,.</text>
+<text x="445.3" y="607.5" textLength="17.5" lengthAdjust="spacing">'`,</text>
+<text x="334.2" y="617.2" textLength="11.7" lengthAdjust="spacing">.'</text>
+<text x="328.3" y="627.0" textLength="128.7" lengthAdjust="spacing">'                    `</text>
+<text x="328.3" y="636.8" textLength="146.2" lengthAdjust="spacing">,.                    '`,</text>
+<text x="462.9" y="646.5" textLength="23.4" lengthAdjust="spacing">.'`,</text>
+<text x="328.3" y="656.2" textLength="157.9" lengthAdjust="spacing">,.               .     ` .'</text>
+<text x="316.6" y="666.0" textLength="181.3" lengthAdjust="spacing">,.                 `        ,.'</text>
+<text x="310.8" y="675.8" textLength="204.8" lengthAdjust="spacing">.                  ,.      ,. `,.'`</text>
+<text x="310.8" y="685.5" textLength="222.3" lengthAdjust="spacing">`, '  .       .'`,               , '`,</text>
+<text x="170.4" y="695.2" textLength="421.2" lengthAdjust="spacing">.'                       '`,.'`     .'`                   `,.' ,.'`,. `,</text>
+<text x="170.4" y="705.0" textLength="421.2" lengthAdjust="spacing">`,.                            '`,.      ,                 '`    ,   ,.'</text>
+<text x="170.4" y="714.8" textLength="421.2" lengthAdjust="spacing">.' ,               ,.         `,.'                       '`,.'`        ,</text>
+<text x="176.2" y="724.5" textLength="391.9" lengthAdjust="spacing">,                                                               ,.'</text>
+</g>
+<g fill="#3a5cc0">
+<text x="398.5" y="61.5" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="304.9" y="71.2" textLength="111.1" lengthAdjust="spacing">~                 ;</text>
+<text x="269.9" y="81.0" textLength="169.6" lengthAdjust="spacing">~                           ~</text>
+<text x="445.3" y="90.8" textLength="5.8" lengthAdjust="spacing">~</text>
+<text x="416.1" y="100.5" textLength="40.9" lengthAdjust="spacing">:     -</text>
+<text x="416.1" y="110.2" textLength="23.4" lengthAdjust="spacing">-  ;</text>
+<text x="433.6" y="120.0" textLength="35.1" lengthAdjust="spacing">~:   :</text>
+<text x="439.5" y="129.8" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="445.3" y="139.5" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="281.5" y="149.2" textLength="70.2" lengthAdjust="spacing">~:;-~:;-   -</text>
+<text x="246.4" y="159.0" textLength="128.7" lengthAdjust="spacing">~:                  ~:</text>
+<text x="205.5" y="168.8" textLength="181.3" lengthAdjust="spacing">-~                            :</text>
+<text x="398.5" y="178.5" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="410.2" y="188.2" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="433.6" y="217.5" textLength="5.8" lengthAdjust="spacing">~</text>
+<text x="176.2" y="227.2" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="182.1" y="237.0" textLength="263.2" lengthAdjust="spacing">:                                          ~:</text>
+<text x="427.8" y="246.8" textLength="23.4" lengthAdjust="spacing">:;-~</text>
+<text x="205.5" y="256.5" textLength="257.4" lengthAdjust="spacing">:;-~:;-~           ~:;        -~:        ; ~</text>
+<text x="264.0" y="266.2" textLength="204.8" lengthAdjust="spacing">:;    -~:;       ;-~        :   :;-</text>
+<text x="199.6" y="276.0" textLength="269.1" lengthAdjust="spacing">~:           :;   ;-     :;               ; ~:</text>
+<text x="234.8" y="285.8" textLength="234.0" lengthAdjust="spacing">~      -      ;   ;-                 :;-</text>
+<text x="275.7" y="295.5" textLength="193.0" lengthAdjust="spacing">:      ~:;-~:       : -     : -~:</text>
+<text x="199.6" y="305.2" textLength="269.1" lengthAdjust="spacing">;-~:; ~:;-  ;                    -~:        ;-</text>
+<text x="240.6" y="315.0" textLength="228.1" lengthAdjust="spacing">-~:;-~:          ~          -~     ;  :</text>
+<text x="211.3" y="324.8" textLength="239.8" lengthAdjust="spacing">~:;      :;             ~:    ;-        ~</text>
+<text x="211.3" y="334.5" textLength="245.7" lengthAdjust="spacing">;       ;                               ;-</text>
+<text x="170.4" y="344.2" textLength="310.0" lengthAdjust="spacing">:;-            ~ ;-~                                :</text>
+<text x="264.0" y="354.0" textLength="222.3" lengthAdjust="spacing">-   -   -~                           ~</text>
+<text x="293.2" y="363.8" textLength="187.2" lengthAdjust="spacing">;-     :                   :   :</text>
+<text x="158.7" y="373.5" textLength="304.2" lengthAdjust="spacing">:                       :  ~                      -~</text>
+<text x="164.5" y="383.2" textLength="292.5" lengthAdjust="spacing">~                           ~                   ~:</text>
+<text x="176.2" y="393.0" textLength="327.6" lengthAdjust="spacing">~:               :                            ;-   -   -</text>
+<text x="187.9" y="402.8" textLength="263.2" lengthAdjust="spacing">~           ~:                             -~</text>
+<text x="193.8" y="412.5" textLength="263.2" lengthAdjust="spacing">-~:                                       :;-</text>
+<text x="199.6" y="422.2" textLength="310.0" lengthAdjust="spacing">;-     :;-~       ~: -~:  ~              -~  -      ;</text>
+<text x="211.3" y="432.0" textLength="239.8" lengthAdjust="spacing">;-~:         -~   ~:       :            ;</text>
+<text x="369.3" y="441.8" textLength="81.9" lengthAdjust="spacing">-~           ~</text>
+<text x="369.3" y="451.5" textLength="81.9" lengthAdjust="spacing">:            ;</text>
+<text x="328.3" y="461.2" textLength="169.6" lengthAdjust="spacing">~:                  ~       ~</text>
+<text x="334.2" y="471.0" textLength="117.0" lengthAdjust="spacing">-~                 ;</text>
+<text x="299.1" y="480.8" textLength="187.2" lengthAdjust="spacing">-~ ;-~:;-               -      ;</text>
+<text x="269.9" y="490.5" textLength="175.5" lengthAdjust="spacing">~:;                          :</text>
+<text x="258.1" y="500.2" textLength="187.2" lengthAdjust="spacing">~                            :;-</text>
+<text x="416.1" y="510.0" textLength="23.4" lengthAdjust="spacing">:;-~</text>
+<text x="275.7" y="519.8" textLength="163.8" lengthAdjust="spacing">-                    ~:;-  ;</text>
+<text x="287.4" y="529.5" textLength="146.2" lengthAdjust="spacing">-~:;-~:  ~  -~:;-~      -</text>
+<text x="345.9" y="539.2" textLength="81.9" lengthAdjust="spacing">-~           ~</text>
+<text x="416.1" y="549.0" textLength="5.8" lengthAdjust="spacing">:</text>
+<text x="410.2" y="558.8" textLength="5.8" lengthAdjust="spacing">;</text>
+<text x="398.5" y="568.5" textLength="11.7" lengthAdjust="spacing">;-</text>
+<text x="392.7" y="578.2" textLength="52.6" lengthAdjust="spacing">-~      -</text>
+<text x="386.8" y="588.0" textLength="11.7" lengthAdjust="spacing">~:</text>
+<text x="369.3" y="597.8" textLength="23.4" lengthAdjust="spacing">-~:;</text>
+<text x="345.9" y="607.5" textLength="40.9" lengthAdjust="spacing">:; ~ ;-</text>
+<text x="345.9" y="617.2" textLength="35.1" lengthAdjust="spacing">-~:;-~</text>
+<text x="334.2" y="627.0" textLength="40.9" lengthAdjust="spacing">-~:;-~:</text>
+<text x="322.5" y="636.8" textLength="134.5" lengthAdjust="spacing">-  ;-~:;              :</text>
+<text x="316.6" y="646.5" textLength="146.2" lengthAdjust="spacing">~:;-~:;-                ~</text>
+<text x="340.0" y="656.2" textLength="87.8" lengthAdjust="spacing">;-~:;        -~</text>
+<text x="328.3" y="666.0" textLength="99.4" lengthAdjust="spacing">;-~   ~:;    -~:;</text>
+<text x="316.6" y="675.8" textLength="105.3" lengthAdjust="spacing">;-     :;     ~:;-</text>
+<text x="322.5" y="685.5" textLength="111.1" lengthAdjust="spacing">: -~ ;-~:;-~      -</text>
+<text x="351.8" y="695.2" textLength="228.1" lengthAdjust="spacing">~:;-~                          -      ;</text>
+<text x="527.2" y="705.0" textLength="23.4" lengthAdjust="spacing">~:;-</text>
+<text x="182.1" y="714.8" textLength="380.2" lengthAdjust="spacing">-                                                            ~:;-</text>
+<text x="182.1" y="724.5" textLength="274.9" lengthAdjust="spacing">:;                                       ;-~:;-</text>
+</g>
+<g fill="#4f86ff">
+<text x="275.7" y="61.5" textLength="5.8" lengthAdjust="spacing">+</text>
+<text x="404.4" y="71.2" textLength="5.8" lengthAdjust="spacing">+</text>
+<text x="246.4" y="81.0" textLength="169.6" lengthAdjust="spacing">#  *                    #   #</text>
+<text x="392.7" y="90.8" textLength="11.7" lengthAdjust="spacing">*#</text>
+<text x="398.5" y="100.5" textLength="40.9" lengthAdjust="spacing">=    *#</text>
+<text x="404.4" y="110.2" textLength="58.5" lengthAdjust="spacing">+   + *  =</text>
+<text x="421.9" y="120.0" textLength="5.8" lengthAdjust="spacing">=</text>
+<text x="462.9" y="129.8" textLength="5.8" lengthAdjust="spacing">*</text>
+<text x="462.9" y="139.5" textLength="5.8" lengthAdjust="spacing">+</text>
+<text x="328.3" y="149.2" textLength="140.4" lengthAdjust="spacing"># =                   =*</text>
+<text x="258.1" y="159.0" textLength="105.3" lengthAdjust="spacing">=*               *</text>
+<text x="217.2" y="168.8" textLength="5.8" lengthAdjust="spacing">+</text>
+<text x="193.8" y="178.5" textLength="5.8" lengthAdjust="spacing">*</text>
+<text x="176.2" y="198.0" textLength="245.7" lengthAdjust="spacing">#+                                       +</text>
+<text x="176.2" y="207.8" textLength="23.4" lengthAdjust="spacing">=*#+</text>
+<text x="176.2" y="217.5" textLength="257.4" lengthAdjust="spacing">#+                                         *</text>
+<text x="182.1" y="227.2" textLength="257.4" lengthAdjust="spacing">*#                                        +=</text>
+<text x="187.9" y="237.0" textLength="263.2" lengthAdjust="spacing">=                                       =*  =</text>
+<text x="182.1" y="246.8" textLength="274.9" lengthAdjust="spacing">*                          =*#           #    +</text>
+<text x="187.9" y="256.5" textLength="269.1" lengthAdjust="spacing">=*#        +=       =*              =        *</text>
+<text x="275.7" y="266.2" textLength="140.4" lengthAdjust="spacing">*#+=              +   +=</text>
+<text x="287.4" y="276.0" textLength="169.6" lengthAdjust="spacing">*           *         +     *</text>
+<text x="193.8" y="285.8" textLength="234.0" lengthAdjust="spacing">+     *        #    +      #       #+  #</text>
+<text x="193.8" y="295.5" textLength="222.3" lengthAdjust="spacing">*       *                  =*      = #</text>
+<text x="228.9" y="305.2" textLength="187.2" lengthAdjust="spacing">*       *        #             =</text>
+<text x="228.9" y="324.8" textLength="175.5" lengthAdjust="spacing">*    #  *           *        #</text>
+<text x="269.9" y="334.5" textLength="5.8" lengthAdjust="spacing">#</text>
+<text x="164.5" y="344.2" textLength="286.6" lengthAdjust="spacing">#   #          * +                              #</text>
+<text x="158.7" y="354.0" textLength="169.6" lengthAdjust="spacing">+               +=     #+=  +</text>
+<text x="158.7" y="363.8" textLength="93.6" lengthAdjust="spacing">*              =</text>
+<text x="164.5" y="373.5" textLength="327.6" lengthAdjust="spacing">=*            #         =*                     +=      +</text>
+<text x="170.4" y="383.2" textLength="327.6" lengthAdjust="spacing">+=          +        =                        *       *#</text>
+<text x="187.9" y="393.0" textLength="286.6" lengthAdjust="spacing">=*              =                         #+  # =</text>
+<text x="193.8" y="402.8" textLength="310.0" lengthAdjust="spacing">+=      +=*  =                           =        *#+</text>
+<text x="211.3" y="412.5" textLength="251.5" lengthAdjust="spacing">=      +  #+=*                        #   #</text>
+<text x="211.3" y="422.2" textLength="245.7" lengthAdjust="spacing">#+=*#                 =* +=           =  +</text>
+<text x="427.8" y="432.0" textLength="40.9" lengthAdjust="spacing">*#+ * +</text>
+<text x="264.0" y="441.8" textLength="239.8" lengthAdjust="spacing">+             *             +=* +       +</text>
+<text x="375.1" y="451.5" textLength="70.2" lengthAdjust="spacing">=          +</text>
+<text x="340.0" y="461.2" textLength="105.3" lengthAdjust="spacing">=                *</text>
+<text x="345.9" y="471.0" textLength="146.2" lengthAdjust="spacing">+=              +       +</text>
+<text x="310.8" y="480.8" textLength="152.1" lengthAdjust="spacing">+      #+= # =*#         =</text>
+<text x="381.0" y="490.5" textLength="58.5" lengthAdjust="spacing">*#+      #</text>
+<text x="264.0" y="500.2" textLength="163.8" lengthAdjust="spacing">+                          #</text>
+<text x="252.3" y="510.0" textLength="163.8" lengthAdjust="spacing">+                         *#</text>
+<text x="264.0" y="519.8" textLength="134.5" lengthAdjust="spacing">+= #+=*#+=        *#+=*</text>
+<text x="328.3" y="529.5" textLength="29.2" lengthAdjust="spacing">=* +=</text>
+<text x="410.2" y="568.5" textLength="5.8" lengthAdjust="spacing">#</text>
+<text x="404.4" y="578.2" textLength="5.8" lengthAdjust="spacing">+</text>
+<text x="398.5" y="588.0" textLength="5.8" lengthAdjust="spacing">=</text>
+<text x="392.7" y="597.8" textLength="5.8" lengthAdjust="spacing">*</text>
+<text x="357.6" y="607.5" textLength="87.8" lengthAdjust="spacing">* +           +</text>
+<text x="381.0" y="617.2" textLength="70.2" lengthAdjust="spacing">+          #</text>
+<text x="375.1" y="627.0" textLength="64.3" lengthAdjust="spacing">=         #</text>
+<text x="369.3" y="636.8" textLength="70.2" lengthAdjust="spacing">*         +=</text>
+<text x="363.4" y="646.5" textLength="93.6" lengthAdjust="spacing">#+        =*#  *</text>
+<text x="369.3" y="656.2" textLength="87.8" lengthAdjust="spacing">*#+=*#+=   =  +</text>
+<text x="345.9" y="666.0" textLength="58.5" lengthAdjust="spacing">+=*   *#+=</text>
+<text x="328.3" y="675.8" textLength="70.2" lengthAdjust="spacing">#+=*#  *#+=*</text>
+<text x="433.6" y="685.5" textLength="23.4" lengthAdjust="spacing">#+=*</text>
+<text x="427.8" y="695.2" textLength="29.2" lengthAdjust="spacing">+=*#+</text>
+<text x="427.8" y="705.0" textLength="29.2" lengthAdjust="spacing">*#+=*</text>
+<text x="421.9" y="714.8" textLength="35.1" lengthAdjust="spacing">#+=*#+</text>
+</g>
+<g fill="#6fd6ff"><animate attributeName="opacity" values=".72;1;.72" dur="5s" repeatCount="indefinite"/>
+<text x="316.6" y="51.8" textLength="5.8" lengthAdjust="spacing">&gt;</text>
+<text x="258.1" y="61.5" textLength="140.4" lengthAdjust="spacing">{   /{                 &gt;</text>
+<text x="246.4" y="71.2" textLength="140.4" lengthAdjust="spacing">{ &lt;&gt;   &lt; /             &gt;</text>
+<text x="252.3" y="81.0" textLength="181.3" lengthAdjust="spacing">&gt;/    /{        / }         } &gt;</text>
+<text x="258.1" y="90.8" textLength="187.2" lengthAdjust="spacing">}                         &lt;    &lt;</text>
+<text x="410.2" y="100.5" textLength="40.9" lengthAdjust="spacing">/     {</text>
+<text x="410.2" y="110.2" textLength="46.8" lengthAdjust="spacing">} &gt;    &gt;</text>
+<text x="427.8" y="120.0" textLength="35.1" lengthAdjust="spacing">}   {}</text>
+<text x="445.3" y="129.8" textLength="17.5" lengthAdjust="spacing">}&lt;&gt;</text>
+<text x="451.2" y="139.5" textLength="11.7" lengthAdjust="spacing">/{</text>
+<text x="334.2" y="149.2" textLength="5.8" lengthAdjust="spacing">}</text>
+<text x="269.9" y="159.0" textLength="87.8" lengthAdjust="spacing">&lt;&gt;           {}</text>
+<text x="223.0" y="168.8" textLength="157.9" lengthAdjust="spacing">}&lt;                       }&lt;</text>
+<text x="199.6" y="178.5" textLength="198.9" lengthAdjust="spacing">/                               }&lt;</text>
+<text x="187.9" y="188.2" textLength="222.3" lengthAdjust="spacing">/{                                   }</text>
+<text x="187.9" y="198.0" textLength="35.1" lengthAdjust="spacing">}&lt;&gt;/{}</text>
+<text x="199.6" y="207.8" textLength="228.1" lengthAdjust="spacing">{}&lt;&gt;/                                 &gt;</text>
+<text x="187.9" y="217.5" textLength="239.8" lengthAdjust="spacing">{}&lt;&gt;/                                   {</text>
+<text x="193.8" y="227.2" textLength="251.5" lengthAdjust="spacing">&gt;/{                &lt;&gt;              &gt;   &lt;  {</text>
+<text x="193.8" y="237.0" textLength="228.1" lengthAdjust="spacing">{}                                  } &gt;</text>
+<text x="187.9" y="246.8" textLength="234.0" lengthAdjust="spacing">}                      /{}   {}        {</text>
+<text x="182.1" y="256.5" textLength="245.7" lengthAdjust="spacing">&lt;             }&lt;&gt;/{}&lt;                    &gt;</text>
+<text x="386.8" y="266.2" textLength="35.1" lengthAdjust="spacing">/ }  /</text>
+<text x="293.2" y="276.0" textLength="140.4" lengthAdjust="spacing">{}          &lt;       {  &gt;</text>
+<text x="199.6" y="285.8" textLength="239.8" lengthAdjust="spacing">}                          &gt;     /  &lt;&gt;  }</text>
+<text x="199.6" y="295.5" textLength="228.1" lengthAdjust="spacing">&gt;             &lt;    &lt;        }   {    {}</text>
+<text x="281.5" y="305.2" textLength="163.8" lengthAdjust="spacing">/     {                &lt;&gt;/ }</text>
+<text x="234.8" y="315.0" textLength="210.6" lengthAdjust="spacing">&gt;       }        {             / }&lt;&gt;</text>
+<text x="234.8" y="324.8" textLength="210.6" lengthAdjust="spacing">{  &gt;    &gt;                         /{</text>
+<text x="217.2" y="334.5" textLength="228.1" lengthAdjust="spacing">/     {   /                          }&lt;</text>
+<text x="193.8" y="344.2" textLength="99.4" lengthAdjust="spacing">&lt;        }      &gt;</text>
+<text x="164.5" y="354.0" textLength="286.6" lengthAdjust="spacing">/{            &gt;                                }&lt;</text>
+<text x="164.5" y="363.8" textLength="286.6" lengthAdjust="spacing">}                                              &gt;/</text>
+<text x="176.2" y="373.5" textLength="310.0" lengthAdjust="spacing">{}                                          /    /  &lt;</text>
+<text x="182.1" y="383.2" textLength="257.4" lengthAdjust="spacing">&gt;/{                     &lt; /            &lt;&gt;/{}</text>
+<text x="199.6" y="393.0" textLength="298.3" lengthAdjust="spacing">&gt;/    /                             /{}&lt;     &gt;    &gt;</text>
+<text x="205.5" y="402.8" textLength="263.2" lengthAdjust="spacing">}&lt;&gt;  }      &gt;       }              }&lt;&gt;/     {</text>
+<text x="217.2" y="412.5" textLength="280.8" lengthAdjust="spacing">{}&lt;&gt;/{ &lt;&gt;    &gt;/  &lt;&gt;/  &lt;           /{}          &lt;</text>
+<text x="404.4" y="422.2" textLength="70.2" lengthAdjust="spacing">/ }&lt;&gt;      {</text>
+<text x="375.1" y="432.0" textLength="99.4" lengthAdjust="spacing">}    } &gt;/     { &lt;</text>
+<text x="410.2" y="441.8" textLength="17.5" lengthAdjust="spacing">/{}</text>
+<text x="258.1" y="451.5" textLength="181.3" lengthAdjust="spacing">{}&lt;&gt;              &gt;      { &lt;&gt;/{</text>
+<text x="345.9" y="461.2" textLength="93.6" lengthAdjust="spacing">&lt;   }&lt;      /{}&lt;</text>
+<text x="357.6" y="471.0" textLength="81.9" lengthAdjust="spacing">}&lt;&gt;/{}&lt;&gt;/    /</text>
+<text x="369.3" y="480.8" textLength="99.4" lengthAdjust="spacing">{ &lt;   }&lt;   }    }</text>
+<text x="287.4" y="490.5" textLength="146.2" lengthAdjust="spacing">&gt;         &gt;/{}&lt;&gt;   &lt;&gt; {}&lt;</text>
+<text x="269.9" y="500.2" textLength="152.1" lengthAdjust="spacing">&lt;&gt;                {}&lt;&gt;/{}&lt;</text>
+<text x="258.1" y="510.0" textLength="146.2" lengthAdjust="spacing">&lt;&gt;/{}&lt; /{}         }&lt;&gt;/{}</text>
+<text x="322.5" y="519.8" textLength="46.8" lengthAdjust="spacing">{}&lt;    &lt;</text>
+<text x="433.6" y="529.5" textLength="5.8" lengthAdjust="spacing">}</text>
+<text x="421.9" y="549.0" textLength="5.8" lengthAdjust="spacing">&gt;</text>
+<text x="416.1" y="558.8" textLength="5.8" lengthAdjust="spacing">/</text>
+<text x="398.5" y="597.8" textLength="5.8" lengthAdjust="spacing">/</text>
+<text x="386.8" y="607.5" textLength="11.7" lengthAdjust="spacing">/{</text>
+<text x="386.8" y="617.2" textLength="52.6" lengthAdjust="spacing">}&lt;      /</text>
+<text x="381.0" y="627.0" textLength="52.6" lengthAdjust="spacing">&lt;&gt;     /{</text>
+<text x="375.1" y="636.8" textLength="52.6" lengthAdjust="spacing">&gt;/     {}</text>
+<text x="375.1" y="646.5" textLength="46.8" lengthAdjust="spacing">{}&lt;&gt;  }&lt;</text>
+<text x="439.5" y="656.2" textLength="11.7" lengthAdjust="spacing">&gt;/</text>
+<text x="433.6" y="666.0" textLength="23.4" lengthAdjust="spacing">/{}&lt;</text>
+<text x="433.6" y="675.8" textLength="23.4" lengthAdjust="spacing">}&lt;&gt;/</text>
+</g>
+<g fill="#bff5ff" font-weight="700"><animate attributeName="opacity" values=".72;1;.72" dur="3.4s" repeatCount="indefinite"/>
+<text x="293.2" y="61.5" textLength="99.4" lengthAdjust="spacing">kumaran         a</text>
+<text x="252.3" y="71.2" textLength="46.8" lengthAdjust="spacing">n  kul k</text>
+<text x="392.7" y="81.0" textLength="35.1" lengthAdjust="spacing">ran  k</text>
+<text x="404.4" y="90.8" textLength="35.1" lengthAdjust="spacing">n okul</text>
+<text x="421.9" y="100.5" textLength="23.4" lengthAdjust="spacing">k  a</text>
+<text x="445.3" y="110.2" textLength="5.8" lengthAdjust="spacing">k</text>
+<text x="445.3" y="120.0" textLength="5.8" lengthAdjust="spacing">k</text>
+<text x="281.5" y="159.0" textLength="64.3" lengthAdjust="spacing">lakumarango</text>
+<text x="234.8" y="168.8" textLength="134.5" lengthAdjust="spacing">arangokula           la</text>
+<text x="205.5" y="178.5" textLength="181.3" lengthAdjust="spacing">lakumarangokul               um</text>
+<text x="199.6" y="188.2" textLength="204.8" lengthAdjust="spacing">ulakumarangokulak                ra</text>
+<text x="223.0" y="198.0" textLength="193.0" lengthAdjust="spacing">umarangokulak             u     g</text>
+<text x="228.9" y="207.8" textLength="193.0" lengthAdjust="spacing">marangokul                   a  o</text>
+<text x="217.2" y="217.5" textLength="204.8" lengthAdjust="spacing">kumaran okulakumara          arango</text>
+<text x="211.3" y="227.2" textLength="210.6" lengthAdjust="spacing">akum         aku  ra         mar ngo</text>
+<text x="205.5" y="237.0" textLength="210.6" lengthAdjust="spacing">la               ma             ra g</text>
+<text x="193.8" y="246.8" textLength="222.3" lengthAdjust="spacing">k   kumaran       u ar        k  a  ng</text>
+<text x="404.4" y="256.5" textLength="17.5" lengthAdjust="spacing">ngo</text>
+<text x="392.7" y="266.2" textLength="35.1" lengthAdjust="spacing">r    k</text>
+<text x="392.7" y="276.0" textLength="35.1" lengthAdjust="spacing">ran  k</text>
+<text x="205.5" y="285.8" textLength="228.1" lengthAdjust="spacing">la u             m             a      u</text>
+<text x="205.5" y="295.5" textLength="234.0" lengthAdjust="spacing">l    a                                ul</text>
+<text x="304.9" y="305.2" textLength="134.5" lengthAdjust="spacing">ma a                  l</text>
+<text x="228.9" y="315.0" textLength="198.9" lengthAdjust="spacing">m         a  ma                  k</text>
+<text x="240.6" y="324.8" textLength="193.0" lengthAdjust="spacing">ra      a   ar   o          ngo u</text>
+<text x="223.0" y="334.5" textLength="105.3" lengthAdjust="spacing">u   a     la    ra</text>
+<text x="199.6" y="344.2" textLength="245.7" lengthAdjust="spacing">u      r        k ma  n                 la</text>
+<text x="176.2" y="354.0" textLength="263.2" lengthAdjust="spacing">ng        ar              ng                l</text>
+<text x="170.4" y="363.8" textLength="269.1" lengthAdjust="spacing">an        mar                o              ul</text>
+<text x="187.9" y="373.5" textLength="245.7" lengthAdjust="spacing">oku      r                o           goku</text>
+<text x="199.6" y="383.2" textLength="274.9" lengthAdjust="spacing">ula   a          u                an        m r</text>
+<text x="211.3" y="393.0" textLength="198.9" lengthAdjust="spacing">akum         akum              ran</text>
+<text x="223.0" y="402.8" textLength="263.2" lengthAdjust="spacing">um        l  um r ng         ran            n</text>
+<text x="304.9" y="412.5" textLength="198.9" lengthAdjust="spacing">ma   go ul   marang         r    k</text>
+<text x="369.3" y="422.2" textLength="128.7" lengthAdjust="spacing">k  ara g             o</text>
+<text x="381.0" y="432.0" textLength="99.4" lengthAdjust="spacing">mara g          a</text>
+<text x="269.9" y="441.8" textLength="210.6" lengthAdjust="spacing">k                  maran           a</text>
+<text x="281.5" y="451.5" textLength="216.4" lengthAdjust="spacing">l                mara g      u  ra  o</text>
+<text x="351.8" y="461.2" textLength="134.5" lengthAdjust="spacing">u a  marang          an</text>
+<text x="410.2" y="471.0" textLength="23.4" lengthAdjust="spacing">goku</text>
+<text x="416.1" y="480.8" textLength="64.3" lengthAdjust="spacing">oku      ra</text>
+<text x="293.2" y="490.5" textLength="122.8" lengthAdjust="spacing">k      go           g</text>
+<text x="281.5" y="500.2" textLength="93.6" lengthAdjust="spacing">la um          k</text>
+<text x="293.2" y="510.0" textLength="35.1" lengthAdjust="spacing">k   ra</text>
+<text x="340.0" y="519.8" textLength="23.4" lengthAdjust="spacing">o ul</text>
+<text x="427.8" y="539.2" textLength="5.8" lengthAdjust="spacing">u</text>
+<text x="416.1" y="568.5" textLength="5.8" lengthAdjust="spacing">o</text>
+<text x="410.2" y="578.2" textLength="5.8" lengthAdjust="spacing">g</text>
+<text x="404.4" y="588.0" textLength="5.8" lengthAdjust="spacing">n</text>
+<text x="404.4" y="597.8" textLength="5.8" lengthAdjust="spacing">n</text>
+<text x="398.5" y="607.5" textLength="40.9" lengthAdjust="spacing">a     l</text>
+<text x="398.5" y="617.2" textLength="46.8" lengthAdjust="spacing">angoku a</text>
+<text x="392.7" y="627.0" textLength="58.5" lengthAdjust="spacing">rango   ak</text>
+<text x="386.8" y="636.8" textLength="64.3" lengthAdjust="spacing">arang    ak</text>
+<text x="398.5" y="646.5" textLength="52.6" lengthAdjust="spacing">an     ak</text>
+</g>
+<g fill="#ffffff" font-weight="700"><animate attributeName="opacity" values=".72;1;.72" dur="2.4s" repeatCount="indefinite"/>
+<text x="381.0" y="61.5" textLength="5.8" lengthAdjust="spacing">M</text>
+<text x="386.8" y="71.2" textLength="17.5" lengthAdjust="spacing">ARA</text>
+<text x="351.8" y="81.0" textLength="5.8" lengthAdjust="spacing">U</text>
+<text x="404.4" y="100.5" textLength="5.8" lengthAdjust="spacing">N</text>
+<text x="293.2" y="168.8" textLength="64.3" lengthAdjust="spacing">KUMARANGOKU</text>
+<text x="287.4" y="178.5" textLength="87.8" lengthAdjust="spacing">AKUMARANGOKULAK</text>
+<text x="299.1" y="188.2" textLength="93.6" lengthAdjust="spacing">UMARANGOKULAKUMA</text>
+<text x="299.1" y="198.0" textLength="111.1" lengthAdjust="spacing">UMARANGOKULAK MARAN</text>
+<text x="287.4" y="207.8" textLength="128.7" lengthAdjust="spacing">AKUMARANGOKULAKUMAR NG</text>
+<text x="258.1" y="217.5" textLength="128.7" lengthAdjust="spacing">G           NGOKULAKUM</text>
+<text x="234.8" y="227.2" textLength="146.2" lengthAdjust="spacing">ARANGOKUL       NGOKULAKU</text>
+<text x="217.2" y="237.0" textLength="175.5" lengthAdjust="spacing">KUMARANGOKULAKU  RANGOKULAKUMA</text>
+<text x="199.6" y="246.8" textLength="204.8" lengthAdjust="spacing">ULA       GOKULAK M           UM RA</text>
+<text x="369.3" y="276.0" textLength="23.4" lengthAdjust="spacing">KUMA</text>
+<text x="217.2" y="285.8" textLength="169.6" lengthAdjust="spacing">K           AKU          AKUM</text>
+<text x="211.3" y="295.5" textLength="175.5" lengthAdjust="spacing">AKUM         AKUM          KUM</text>
+<text x="287.4" y="305.2" textLength="17.5" lengthAdjust="spacing">AKU</text>
+<text x="293.2" y="315.0" textLength="40.9" lengthAdjust="spacing">KU  RAN</text>
+<text x="293.2" y="324.8" textLength="134.5" lengthAdjust="spacing">KUM  ANG              K</text>
+<text x="228.9" y="334.5" textLength="204.8" lengthAdjust="spacing">MAR        KUMA  NGOKULAKUMARANGOKU</text>
+<text x="205.5" y="344.2" textLength="228.1" lengthAdjust="spacing">LAKUMA          U  RA GOKULAKUMARANGOKU</text>
+<text x="187.9" y="354.0" textLength="245.7" lengthAdjust="spacing">OKULAKUM                  OKULAKUMARANGOKU</text>
+<text x="182.1" y="363.8" textLength="245.7" lengthAdjust="spacing">GOKULAKU                    KULAKUMARANGOK</text>
+<text x="205.5" y="373.5" textLength="274.9" lengthAdjust="spacing">LAKUMA                  KULAKUMARAN          RA</text>
+<text x="217.2" y="383.2" textLength="251.5" lengthAdjust="spacing">KUM            MAR   OKULAKUMAR           A</text>
+<text x="310.8" y="393.0" textLength="81.9" lengthAdjust="spacing">ARANGOKULAKUMA</text>
+<text x="287.4" y="402.8" textLength="193.0" lengthAdjust="spacing">AK  A    OKULAKUMA             RA</text>
+<text x="363.4" y="412.5" textLength="128.7" lengthAdjust="spacing">AKU                ANG</text>
+<text x="375.1" y="422.2" textLength="128.7" lengthAdjust="spacing">UM            M  ANG K</text>
+<text x="480.4" y="432.0" textLength="23.4" lengthAdjust="spacing">NGOK</text>
+<text x="275.7" y="441.8" textLength="222.3" lengthAdjust="spacing">ULAKUMARANGO                   MAR NGO</text>
+<text x="287.4" y="451.5" textLength="204.8" lengthAdjust="spacing">AKUMARANGOKUL                MA  NG</text>
+<text x="357.6" y="461.2" textLength="134.5" lengthAdjust="spacing">L               UMAR  G</text>
+<text x="451.2" y="471.0" textLength="35.1" lengthAdjust="spacing">UMARAN</text>
+<text x="299.1" y="490.5" textLength="35.1" lengthAdjust="spacing">UMARAN</text>
+<text x="293.2" y="500.2" textLength="76.0" lengthAdjust="spacing">K  ARANGOKULA</text>
+<text x="328.3" y="510.0" textLength="40.9" lengthAdjust="spacing">NGOKULA</text>
+<text x="345.9" y="519.8" textLength="5.8" lengthAdjust="spacing">K</text>
+<text x="433.6" y="539.2" textLength="5.8" lengthAdjust="spacing">L</text>
+<text x="427.8" y="549.0" textLength="11.7" lengthAdjust="spacing">UL</text>
+<text x="421.9" y="558.8" textLength="17.5" lengthAdjust="spacing">KUL</text>
+<text x="421.9" y="568.5" textLength="17.5" lengthAdjust="spacing">KUL</text>
+<text x="416.1" y="578.2" textLength="23.4" lengthAdjust="spacing">OKUL</text>
+<text x="410.2" y="588.0" textLength="29.2" lengthAdjust="spacing">GOKUL</text>
+<text x="410.2" y="597.8" textLength="29.2" lengthAdjust="spacing">GOKUL</text>
+<text x="404.4" y="607.5" textLength="29.2" lengthAdjust="spacing">NGOKU</text>
+</g>
+<g fill="#ffd479">
+<text x="293.2" y="61.5" textLength="99.4" lengthAdjust="spacing" opacity="0">kumaran        Ma<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.036;0.086;0.156;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="252.3" y="71.2" textLength="152.1" lengthAdjust="spacing" opacity="0">n  kul k               ARA<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.044;0.094;0.164;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="351.8" y="81.0" textLength="76.0" lengthAdjust="spacing" opacity="0">U      ran  k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.053;0.103;0.173;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="404.4" y="90.8" textLength="35.1" lengthAdjust="spacing" opacity="0">n okul<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.062;0.112;0.182;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="404.4" y="100.5" textLength="40.9" lengthAdjust="spacing" opacity="0">N  k  a<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.070;0.120;0.190;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="445.3" y="110.2" textLength="5.8" lengthAdjust="spacing" opacity="0">k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.079;0.129;0.199;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="445.3" y="120.0" textLength="5.8" lengthAdjust="spacing" opacity="0">k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.088;0.138;0.208;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="281.5" y="159.0" textLength="64.3" lengthAdjust="spacing" opacity="0">lakumarango<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.122;0.172;0.242;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="234.8" y="168.8" textLength="134.5" lengthAdjust="spacing" opacity="0">arangokulaKUMARANGOKUla<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.131;0.181;0.251;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="205.5" y="178.5" textLength="181.3" lengthAdjust="spacing" opacity="0">lakumarangokulAKUMARANGOKULAKum<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.139;0.189;0.259;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="199.6" y="188.2" textLength="204.8" lengthAdjust="spacing" opacity="0">ulakumarangokulakUMARANGOKULAKUMAra<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.148;0.198;0.268;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="223.0" y="198.0" textLength="193.0" lengthAdjust="spacing" opacity="0">umarangokulakUMARANGOKULAKuMARANg<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.156;0.206;0.276;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="228.9" y="207.8" textLength="193.0" lengthAdjust="spacing" opacity="0">marangokulAKUMARANGOKULAKUMARaNGo<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.165;0.215;0.285;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="217.2" y="217.5" textLength="204.8" lengthAdjust="spacing" opacity="0">kumaranGokulakumaraNGOKULAKUMarango<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.174;0.224;0.294;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="211.3" y="227.2" textLength="210.6" lengthAdjust="spacing" opacity="0">akumARANGOKULaku  raNGOKULAKUmar ngo<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.182;0.232;0.302;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="205.5" y="237.0" textLength="210.6" lengthAdjust="spacing" opacity="0">laKUMARANGOKULAKUmaRANGOKULAKUMAra g<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.191;0.241;0.311;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="193.8" y="246.8" textLength="222.3" lengthAdjust="spacing" opacity="0">kULAkumaranGOKULAKuMar        kUMaRAng<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.199;0.249;0.319;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="404.4" y="256.5" textLength="17.5" lengthAdjust="spacing" opacity="0">ngo<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.208;0.258;0.328;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="392.7" y="266.2" textLength="35.1" lengthAdjust="spacing" opacity="0">r    k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.217;0.267;0.337;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="369.3" y="276.0" textLength="58.5" lengthAdjust="spacing" opacity="0">KUMAran  k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.225;0.275;0.345;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="205.5" y="285.8" textLength="228.1" lengthAdjust="spacing" opacity="0">laKu          AKUm         AKUMa      u<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.234;0.284;0.354;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="205.5" y="295.5" textLength="234.0" lengthAdjust="spacing" opacity="0">lAKUMa        AKUM          KUM       ul<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.242;0.292;0.362;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="287.4" y="305.2" textLength="152.1" lengthAdjust="spacing" opacity="0">AKUma a                  l<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.251;0.301;0.371;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="228.9" y="315.0" textLength="198.9" lengthAdjust="spacing" opacity="0">m         aKUmaRAN               k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.260;0.310;0.380;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="240.6" y="324.8" textLength="193.0" lengthAdjust="spacing" opacity="0">ra      aKUMarANGo          ngoKu<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.268;0.318;0.388;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="223.0" y="334.5" textLength="210.6" lengthAdjust="spacing" opacity="0">uMARa     laKUMAraNGOKULAKUMARANGOKU<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.277;0.327;0.397;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="199.6" y="344.2" textLength="245.7" lengthAdjust="spacing" opacity="0">uLAKUMAr        kUmaRAnGOKULAKUMARANGOKUla<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.286;0.336;0.406;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="176.2" y="354.0" textLength="263.2" lengthAdjust="spacing" opacity="0">ngOKULAKUMar              ngOKULAKUMARANGOKUl<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.294;0.344;0.414;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="170.4" y="363.8" textLength="269.1" lengthAdjust="spacing" opacity="0">anGOKULAKUmar                oKULAKUMARANGOKul<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.303;0.353;0.423;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="187.9" y="373.5" textLength="292.5" lengthAdjust="spacing" opacity="0">okuLAKUMAr                oKULAKUMARANgoku      RA<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.311;0.361;0.431;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="199.6" y="383.2" textLength="274.9" lengthAdjust="spacing" opacity="0">ulaKUMa          uMAR   OKULAKUMARan        mAr<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.320;0.370;0.440;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="211.3" y="393.0" textLength="198.9" lengthAdjust="spacing" opacity="0">akum         akumARANGOKULAKUMAran<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.329;0.379;0.449;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="223.0" y="402.8" textLength="263.2" lengthAdjust="spacing" opacity="0">um        lAKumAr ngOKULAKUMAran          RAn<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.337;0.387;0.457;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="304.9" y="412.5" textLength="198.9" lengthAdjust="spacing" opacity="0">ma   go ulAKUmarang         rANG k<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.346;0.396;0.466;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="369.3" y="422.2" textLength="134.5" lengthAdjust="spacing" opacity="0">kUMara g       M  ANGoK<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.354;0.404;0.474;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="381.0" y="432.0" textLength="122.8" lengthAdjust="spacing" opacity="0">mara g          aNGOK<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.363;0.413;0.483;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="269.9" y="441.8" textLength="228.1" lengthAdjust="spacing" opacity="0">kULAKUMARANGO      maran        MARaNGO<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.372;0.422;0.492;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="281.5" y="451.5" textLength="216.4" lengthAdjust="spacing" opacity="0">lAKUMARANGOKUL   mara g      uMAraNGo<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.380;0.430;0.500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="351.8" y="461.2" textLength="140.4" lengthAdjust="spacing" opacity="0">uLa  marang      UMARanG<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.389;0.439;0.509;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="410.2" y="471.0" textLength="76.0" lengthAdjust="spacing" opacity="0">goku   UMARAN<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.397;0.447;0.517;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="416.1" y="480.8" textLength="64.3" lengthAdjust="spacing" opacity="0">oku      ra<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.406;0.456;0.526;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="293.2" y="490.5" textLength="122.8" lengthAdjust="spacing" opacity="0">kUMARANgo           g<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.415;0.465;0.535;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="281.5" y="500.2" textLength="93.6" lengthAdjust="spacing" opacity="0">laKumARANGOKULAk<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.423;0.473;0.543;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="293.2" y="510.0" textLength="76.0" lengthAdjust="spacing" opacity="0">k   raNGOKULA<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.432;0.482;0.552;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="340.0" y="519.8" textLength="23.4" lengthAdjust="spacing" opacity="0">oKul<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.441;0.491;0.561;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="427.8" y="539.2" textLength="11.7" lengthAdjust="spacing" opacity="0">uL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.458;0.508;0.578;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="427.8" y="549.0" textLength="11.7" lengthAdjust="spacing" opacity="0">UL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.466;0.516;0.586;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="421.9" y="558.8" textLength="17.5" lengthAdjust="spacing" opacity="0">KUL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.475;0.525;0.595;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="416.1" y="568.5" textLength="23.4" lengthAdjust="spacing" opacity="0">oKUL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.484;0.534;0.604;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="410.2" y="578.2" textLength="29.2" lengthAdjust="spacing" opacity="0">gOKUL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.492;0.542;0.612;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="404.4" y="588.0" textLength="35.1" lengthAdjust="spacing" opacity="0">nGOKUL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.501;0.551;0.621;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="404.4" y="597.8" textLength="35.1" lengthAdjust="spacing" opacity="0">nGOKUL<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.509;0.559;0.629;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="398.5" y="607.5" textLength="40.9" lengthAdjust="spacing" opacity="0">aNGOKUl<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.518;0.568;0.638;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="398.5" y="617.2" textLength="46.8" lengthAdjust="spacing" opacity="0">angoku a<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.527;0.577;0.647;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="392.7" y="627.0" textLength="58.5" lengthAdjust="spacing" opacity="0">rango   ak<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.535;0.585;0.655;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="386.8" y="636.8" textLength="64.3" lengthAdjust="spacing" opacity="0">arang    ak<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.544;0.594;0.664;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="398.5" y="646.5" textLength="52.6" lengthAdjust="spacing" opacity="0">an     ak<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.552;0.603;0.673;1" dur="8s" repeatCount="indefinite"/></text>
+</g></g>
+<rect x="30" y="24" width="562" height="1.5" fill="#ffd479" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 702;0 702" keyTimes="0;.06;.68;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;.85;0;0" keyTimes="0;.06;.68;.7;1" dur="8s" repeatCount="indefinite"/></rect>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"><text x="630" y="64" font-size="12" fill="#6fe3ff" letter-spacing="2">VOYAGER OS · GK-06</text></g>
+<g font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="42" fill="#fff"><text x="630" y="118">Gokula</text><text x="630" y="162">Kumaran</text></g>
+<text x="630" y="200" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#ffd479" opacity="0">Game Developer<animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;.3333;.6667" dur="9s" repeatCount="indefinite"/></text>
+<text x="630" y="200" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#ffd479" opacity="0">Full-Stack Developer<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;.3333;.6667" dur="9s" repeatCount="indefinite"/></text>
+<text x="630" y="200" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#ffd479" opacity="0">Unity · C# · React<animate attributeName="opacity" calcMode="discrete" values="0;0;1" keyTimes="0;.3333;.6667" dur="9s" repeatCount="indefinite"/></text>
+<line x1="630" y1="224" x2="866" y2="224" stroke="#34509f" stroke-opacity=".6"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">
+<text x="630" y="252" fill="#5f74b8">BASE</text><text x="696" y="252" fill="#c9d6ff">Tamil Nadu, India</text>
+<text x="630" y="280" fill="#5f74b8">COORD</text><text x="696" y="280" fill="#c9d6ff">11.1271°N 78.6569°E</text>
+<text x="630" y="308" fill="#5f74b8">STUDY</text><text x="696" y="308" fill="#c9d6ff">B.Tech · CSBS</text>
+<text x="630" y="336" fill="#5f74b8">SCHOOL</text><text x="696" y="336" fill="#c9d6ff">Ramco Institute (RIT)</text>
+<text x="630" y="364" fill="#5f74b8">ENGINE</text><text x="696" y="364" fill="#c9d6ff">Unity · React · FastAPI</text>
+<text x="630" y="392" fill="#5f74b8">BUILD</text><text x="696" y="392" fill="#c9d6ff">Zyqra · The Back Exit</text>
+<text x="630" y="420" fill="#5f74b8">PLAYS</text><text x="696" y="420" fill="#c9d6ff">Cricket · Chess</text>
+<text x="630" y="448" fill="#5f74b8">STATUS</text><circle cx="701" cy="444" r="4" fill="#7dffb0"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle><text x="712" y="448" fill="#c9d6ff">Open to work</text></g>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#5f74b8"><text x="630" y="650">portrait typeset from 7,582 glyphs:</text><text x="630" y="666">my name + code symbols.</text><text x="630" y="700" fill="#6fe3ff" font-size="12">▶ click the portrait →<animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></text><text x="630" y="716">cursor-reactive mode</text></g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MGZjOTU2Yi1jZmNiLTRlNTItOTcwNi0wNDg2NzE1NWI1NTYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAn8/hUIcN4kIyIbGMWAI74AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMjFmOTU4Ny1hODgzLTQzMWUtYTI5OC1jNWNiYmU1NjgxMjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo/UTOy1DkEji5VliSqbz9KAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg1KiwTz9jynA2DM+BXoM0viDvxdwV2t43eqKBfUzcG5ikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOqxAQeniyVfdmHoHjggno4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRKAAAAAAAAAAAAAGRoYXNoWCBvy3kWC5XWvuk4M/c1LK/Qo3JoemJM8kSCnuALmcIL+GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBoAARjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgwZmM5NTZiLWNmY2ItNGU1Mi05NzA2LTA0ODY3MTU1YjU1Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQ0MmU2MDUzLWQ1ODEtNDZjZC04YWYxLTdiMDk0OWUxNWE5ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDUqLBPP2PKcDYMz4FegzS+IO/F3BXa3jd6ooF9TNwbmKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggzBRxm5yO0ZvYt7JQfckOTVeP4WfJkTM7cV5EwdgsM4GiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFNKE/NPCnMakUqdp0vAw+EqeI3C+JAlfo25R/Dsbcrx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEjh8YPNb+P4Co+BDHyLSSk3b0icV2iBLuRZCF8zt4OLAruP7mZ7bOCj19cuG2YkrRpsovJ+pwr/OK2N+A+3TaA=</c2pa:manifest></metadata></svg>
