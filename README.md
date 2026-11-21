@@ -138,7 +138,7 @@ Built practical full-stack projects across frontend and backend with Python and 
 
 | | Achievement |
 |---|---|
-| 🏏 | District-level cricket player for Virudhunagar, **2nd place in the CM Trophy** |
+| 🏏 | District-level cricket player for Virudhunagar, **3nd place in the CM Trophy** |
 | 🏸 | **District 1st place** in ball badminton |
 | ♟️ | **Inter-college chess champion** |
 | 💻 | 24-hour hackathon at KPR Institute of Engineering, where I built an AI study app for biotechnology students |
