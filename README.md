@@ -119,9 +119,11 @@ A terrain system built on Perlin noise and procedural mesh generation, with octa
 ```mermaid
 timeline
     title Mission timeline
-    2024 : Joined Ramco Institute of Technology : B.Tech in Computer Science and Business Systems
-    Jun 2026 : Unity Game Development Intern at Playxoft Studios : Python Full Stack Developer Intern at Skiez Technologies
-    Now : Building Zyqra : Building The Back Exit
+    2023 : Realistic Forest HDRP : Unity 3D & Blender Foundations
+    2024 : Joined Ramco Institute of Technology (B.Tech CSBS) : Interactive Space Web Design (Portfolios) : Procedural Terrain & City Gen
+    2025 : RideWise Navigation & Fleet Platform : 24h KPR & RIT Hackathons
+    Jun–Jul 2026 : Unity Game Dev Intern · Playxoft Studios : Python Full-Stack Intern · Skiez Technologies
+    Now : Building Zyqra (AI Study App) : Building The Back Exit (Horror Game) : Voyager OS 01 & FACET 01
 ```
 
 <details>
