@@ -1,0 +1,39 @@
+name: Voyager Telemetry & Snake Sync
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Voyager contribution snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sGokulaKumaran
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=%236C63FF&color_dots=%23ebedf0,%23c7d2fe,%23818cf8,%236366f1,%234338ca
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23FFB454&color_dots=%23101322,%231b2a66,%233a5cc0,%236fe3ff,%23bff5ff
+
+      - name: Generate Voyager Telemetry SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_telemetry.py --username sGokulaKumaran --out dist/telemetry.svg
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

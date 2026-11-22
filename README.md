@@ -1,15 +1,15 @@
 <div align="center">
 
-<a href="https://sgokulakumaran.github.io/face/" title="Open the cursor-reactive portrait">
-  <img src="assets/face.svg" alt="Animated portrait of Gokula Kumaran, typeset from his name and code symbols" width="880">
+<a href="https://sgokulakumaran.github.io/face/" title="Open VOYAGER // FACET 01 — interactive 4-mode 3D face">
+  <img src="assets/face.svg" alt="Voyager OS 01 animated portrait of Gokula Kumaran, typeset from his name and code symbols" width="880">
 </a>
 
-<sub>This portrait is typeset from my own name and code symbols. Click it to open the version that follows your cursor.</sub>
+<sub>This portrait is typeset from my own name and code symbols. Click it to open <b>VOYAGER // FACET 01</b> — the interactive 4-mode 3D field.</sub>
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voyager_OS-05060A?style=for-the-badge&logo=rocket&logoColor=ffd479&labelColor=1b2a66)](https://gokulakumarans.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokula_Kumaran-05060A?style=for-the-badge&logo=linkedin&logoColor=6fe3ff&labelColor=1b2a66)](https://www.linkedin.com/in/gokula-kumaran-s-503545328/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voyager_OS_01-05060A?style=for-the-badge&logo=rocket&logoColor=ffd479&labelColor=1b2a66)](https://gokulakumarans.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokula_Kumaran-05060A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzZmZTNmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&labelColor=1b2a66)](https://www.linkedin.com/in/gokula-kumaran-s-503545328/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-05060A?style=for-the-badge&logo=gmail&logoColor=ff7a7a&labelColor=1b2a66)](mailto:gokulakumaran2007@gmail.com)
 [![RideWise](https://img.shields.io/badge/Live_app-RideWise-05060A?style=for-the-badge&logo=cloudflarepages&logoColor=7dffb0&labelColor=1b2a66)](https://ride-wise.pages.dev)
 
@@ -33,22 +33,24 @@ public class Gokulakumarans : Developer
 ## Skill system
 
 <div align="center">
-  <img src="assets/orbit.svg" alt="Skill orbits: game dev, frontend, backend and core languages around a GK core" width="880">
+  <img src="assets/orbit.svg" alt="Voyager OS 01 skill orrery: game dev, frontend, backend and core languages around a GK core" width="880">
 </div>
 
 <div align="center">
 
 ![Unity](https://img.shields.io/badge/Unity-05060A?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-05060A?style=flat-square&logo=csharp&logoColor=9a86ff)
+![C#](https://img.shields.io/badge/C%23-05060A?style=flat-square&logo=dotnet&logoColor=9a86ff)
 ![Blender](https://img.shields.io/badge/Blender-05060A?style=flat-square&logo=blender&logoColor=ffa94d)
 ![React](https://img.shields.io/badge/React-05060A?style=flat-square&logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05060A?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Tailwind](https://img.shields.io/badge/Tailwind-05060A?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![HTML/CSS](https://img.shields.io/badge/HTML_%2F_CSS-05060A?style=flat-square&logo=html5&logoColor=e34f26)
 ![Python](https://img.shields.io/badge/Python-05060A?style=flat-square&logo=python&logoColor=ffd43b)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05060A?style=flat-square&logo=fastapi&logoColor=009688)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-05060A?style=flat-square&logo=springboot&logoColor=6db33f)
+![SQL](https://img.shields.io/badge/SQL-05060A?style=flat-square&logo=postgresql&logoColor=4cc9f0)
 ![Java](https://img.shields.io/badge/Java-05060A?style=flat-square&logo=openjdk&logoColor=ed8b00)
-![C++](https://img.shields.io/badge/C++-05060A?style=flat-square&logo=cplusplus&logoColor=00599c)
+![C / C++](https://img.shields.io/badge/C_%2F_C++-05060A?style=flat-square&logo=cplusplus&logoColor=00599c)
 ![Git](https://img.shields.io/badge/Git-05060A?style=flat-square&logo=git&logoColor=f05032)
 ![Streamlit](https://img.shields.io/badge/Streamlit-05060A?style=flat-square&logo=streamlit&logoColor=ff4b4b)
 
@@ -138,7 +140,7 @@ Built practical full-stack projects across frontend and backend with Python and 
 
 | | Achievement |
 |---|---|
-| 🏏 | District-level cricket player for Virudhunagar, **3nd place in the CM Trophy** |
+| 🏏 | District-level cricket player for Virudhunagar, **3rd place in the CM Trophy** |
 | 🏸 | **District 1st place** in ball badminton |
 | ♟️ | **Inter-college chess champion** |
 | 💻 | 24-hour hackathon at KPR Institute of Engineering, where I built an AI study app for biotechnology students |
@@ -148,15 +150,14 @@ Built practical full-stack projects across frontend and backend with Python and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sGokulaKumaran&show_icons=true&hide_border=true&bg_color=05060A&title_color=6fe3ff&text_color=c9d6ff&icon_color=ffd479&ring_color=6fe3ff" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sGokulaKumaran&layout=compact&hide_border=true&bg_color=05060A&title_color=6fe3ff&text_color=c9d6ff" alt="Top languages">
+<img src="https://raw.githubusercontent.com/sGokulaKumaran/sGokulaKumaran/output/telemetry.svg" alt="Voyager OS 01 live GitHub telemetry console" width="880">
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sGokulaKumaran/sGokulaKumaran/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sGokulaKumaran/sGokulaKumaran/output/github-snake.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/sGokulaKumaran/sGokulaKumaran/output/github-snake.svg">
+  <img alt="Voyager contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/sGokulaKumaran/sGokulaKumaran/output/github-snake.svg" width="880">
 </picture>
 
 </div>
@@ -166,5 +167,5 @@ Built practical full-stack projects across frontend and backend with Python and 
 I'm open to internships, freelance projects and game-dev collaborations. The fastest way to reach me is [email](mailto:gokulakumaran2007@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/gokula-kumaran-s-503545328/) or fly through my [portfolio](https://gokulakumarans.pages.dev).
 
 <div align="center">
-<sub>Voyager OS · GK-06 · every glyph in the portrait above spells part of my name</sub>
+<sub>Voyager OS 01 · every glyph in the portrait above spells part of my name</sub>
 </div>

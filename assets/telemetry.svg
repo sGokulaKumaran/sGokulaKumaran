@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="Voyager OS 01 live GitHub telemetry for sGokulaKumaran">
+<defs>
+  <radialGradient id="tg1" cx="12%" cy="18%" r="55%">
+    <stop offset="0" stop-color="#5a3cff" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#5a3cff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="tg2" cx="90%" cy="88%" r="50%">
+    <stop offset="0" stop-color="#00c8ff" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#00c8ff" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#ffffff" stop-opacity=".42"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="lang-clip">
+    <rect x="24.0" y="169.0" width="832.0" height="10.0" rx="5"/>
+  </clipPath>
+  <clipPath id="lang-reveal">
+    <rect x="24.0" y="169.0" width="832.0" height="10.0">
+      <animate attributeName="width" from="0" to="832.0" dur="0.9s" fill="freeze"/>
+    </rect>
+  </clipPath>
+</defs>
+
+<rect width="880" height="220" rx="18" fill="#05060A"/>
+<rect width="880" height="220" rx="18" fill="url(#tg1)"/>
+<rect width="880" height="220" rx="18" fill="url(#tg2)"/>
+<rect x="0.75" y="0.75" width="878.5" height="218.5" rx="17.25" fill="none" stroke="#243773" stroke-opacity=".55" stroke-width="1.2"/>
+
+<circle cx="78" cy="16" r="0.8" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.4s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="192" cy="34" r="0.6" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="4.8s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="318" cy="14" r="1.0" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.9s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="456" cy="26" r="0.7" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="5.2s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="588" cy="18" r="0.9" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="4.1s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="712" cy="31" r="0.7" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.6s" begin="-1.7s" repeatCount="indefinite"/></circle>
+<circle cx="838" cy="17" r="1.0" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="4.6s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="124" cy="148" r="0.7" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="5.0s" begin="-2.2s" repeatCount="indefinite"/></circle>
+<circle cx="274" cy="152" r="0.9" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.7s" begin="-1.1s" repeatCount="indefinite"/></circle>
+<circle cx="498" cy="149" r="0.6" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="4.4s" begin="-3.0s" repeatCount="indefinite"/></circle>
+<circle cx="662" cy="154" r="0.8" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.8s" begin="-1.9s" repeatCount="indefinite"/></circle>
+<circle cx="796" cy="147" r="1.0" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="5.1s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<circle cx="44" cy="198" r="0.6" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="4.2s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="848" cy="204" r="0.8" fill="#cfe0ff" opacity=".35"><animate attributeName="opacity" values=".12;.75;.12" dur="3.5s" begin="-1.4s" repeatCount="indefinite"/></circle>
+
+<!-- Header & Pulsing Radar -->
+<g transform="translate(34,27)">
+  <circle r="10" fill="none" stroke="#6FE3FF" stroke-opacity=".35" stroke-width="1">
+    <animate attributeName="r" values="4;12;12" keyTimes="0;0.75;1" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".75;0;0" keyTimes="0;0.75;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="6.5" fill="none" stroke="#6FE3FF" stroke-opacity=".28" stroke-width="0.9"/>
+  <circle r="2.8" fill="#6FE3FF"/>
+</g>
+<text x="54" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="700" letter-spacing="1.9" fill="#6FE3FF">VOYAGER OS 01 // TELEMETRY</text>
+<text x="294" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#7D91C9">@sGokulaKumaran</text>
+<text x="856" y="31" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#5B6FA8">SYNC 2026-11-22 10:57 UTC</text>
+<line x1="24" y1="46" x2="856" y2="46" stroke="#243773" stroke-opacity=".6" stroke-width="1"/>
+
+<!-- Stat Tiles -->
+<g transform="translate(24.0,60)"><rect width="197.5" height="74" rx="10" fill="#0B1022" fill-opacity=".92" stroke="#FFB454" stroke-opacity=".26" stroke-width="1"/><rect x="0.5" y="14" width="3" height="46" rx="1.5" fill="#FFB454"/><circle cx="183.5" cy="16" r="2.6" fill="#FFB454" opacity=".75"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle><text x="15" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.3" fill="#7D91C9">CONTRIBUTIONS</text><text x="15" y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F3F6FF">14</text><text x="15" y="65" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#5B6FA8">recent events</text></g><g transform="translate(235.5,60)"><rect width="197.5" height="74" rx="10" fill="#0B1022" fill-opacity=".92" stroke="#6FE3FF" stroke-opacity=".26" stroke-width="1"/><rect x="0.5" y="14" width="3" height="46" rx="1.5" fill="#6FE3FF"/><circle cx="183.5" cy="16" r="2.6" fill="#6FE3FF" opacity=".75"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></circle><text x="15" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.3" fill="#7D91C9">REPOSITORIES</text><text x="15" y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F3F6FF">11</text><text x="15" y="65" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#5B6FA8">public builds</text></g><g transform="translate(447.0,60)"><rect width="197.5" height="74" rx="10" fill="#0B1022" fill-opacity=".92" stroke="#9A86FF" stroke-opacity=".26" stroke-width="1"/><rect x="0.5" y="14" width="3" height="46" rx="1.5" fill="#9A86FF"/><circle cx="183.5" cy="16" r="2.6" fill="#9A86FF" opacity=".75"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle><text x="15" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.3" fill="#7D91C9">STARS EARNED</text><text x="15" y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F3F6FF">0</text><text x="15" y="65" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#5B6FA8">community signal</text></g><g transform="translate(658.5,60)"><rect width="197.5" height="74" rx="10" fill="#0B1022" fill-opacity=".92" stroke="#3DDC84" stroke-opacity=".26" stroke-width="1"/><rect x="0.5" y="14" width="3" height="46" rx="1.5" fill="#3DDC84"/><circle cx="183.5" cy="16" r="2.6" fill="#3DDC84" opacity=".75"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" begin="1.35s" repeatCount="indefinite"/></circle><text x="15" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.3" fill="#7D91C9">FOLLOWERS</text><text x="15" y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F3F6FF">0</text><text x="15" y="65" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#5B6FA8">voyager network</text></g>
+
+<!-- Top Languages Bar -->
+<text x="24" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="1.4" fill="#7D91C9">TOP LANGUAGES</text>
+<text x="856" y="160" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.0" fill="#5B6FA8">GITHUB REST API</text>
+
+<rect x="24.0" y="169.0" width="832.0" height="10.0" rx="5" fill="#101730"/>
+<g clip-path="url(#lang-clip)">
+  <g clip-path="url(#lang-reveal)">
+    <rect x="24.00" y="169.0" width="552.10" height="10.0" fill="#9A86FF"/><rect x="576.10" y="169.0" width="92.51" height="10.0" fill="#F7DF1E"/><rect x="668.61" y="169.0" width="85.20" height="10.0" fill="#3178C6"/><rect x="753.81" y="169.0" width="58.40" height="10.0" fill="#FF6B6B"/><rect x="812.21" y="169.0" width="43.79" height="10.0" fill="#3DDC84"/>
+  </g>
+  <rect x="-140" y="169.0" width="140" height="10.0" fill="url(#sheen)">
+    <animate attributeName="x" values="-140;900;900" keyTimes="0;0.45;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Language Legend -->
+<g transform="translate(24.0,198)"><circle cx="4.5" cy="-3.5" r="4" fill="#9A86FF"/><text x="14" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#D7E2FF">C# <tspan fill="#7D91C9" font-size="10.5">67.5%</tspan></text></g><g transform="translate(190.4,198)"><circle cx="4.5" cy="-3.5" r="4" fill="#F7DF1E"/><text x="14" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#D7E2FF">JavaScript <tspan fill="#7D91C9" font-size="10.5">10.9%</tspan></text></g><g transform="translate(356.8,198)"><circle cx="4.5" cy="-3.5" r="4" fill="#3178C6"/><text x="14" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#D7E2FF">TypeScript <tspan fill="#7D91C9" font-size="10.5">10.0%</tspan></text></g><g transform="translate(523.2,198)"><circle cx="4.5" cy="-3.5" r="4" fill="#FF6B6B"/><text x="14" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#D7E2FF">HTML <tspan fill="#7D91C9" font-size="10.5">6.7%</tspan></text></g><g transform="translate(689.6,198)"><circle cx="4.5" cy="-3.5" r="4" fill="#3DDC84"/><text x="14" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#D7E2FF">ASP.NET <tspan fill="#7D91C9" font-size="10.5">4.9%</tspan></text></g>
+</svg>
