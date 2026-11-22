@@ -486,24 +486,25 @@
 
   <!-- Sleek 4-Row Telemetry -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5">
-    <text x="618" y="270" fill="#647BB8" letter-spacing=".8">ENGINE</text>
-    <text x="678" y="270" fill="#DCE6FF">Unity · React · FastAPI</text>
+    <text x="618" y="266" fill="#647BB8" letter-spacing=".8">ENGINE</text>
+    <text x="678" y="266" fill="#DCE6FF">Unity · React · FastAPI</text>
 
-    <text x="618" y="310" fill="#647BB8" letter-spacing=".8">BUILD</text>
-    <text x="678" y="310" fill="#DCE6FF">Zyqra · The Back Exit</text>
+    <text x="618" y="306" fill="#647BB8" letter-spacing=".8">BUILD</text>
+    <text x="678" y="306" fill="#DCE6FF">RideWise <tspan fill="#7DFFB0">(Live)</tspan></text>
+    <text x="678" y="325" fill="#DCE6FF">Zyqra · The Back Exit</text>
 
-    <text x="618" y="350" fill="#647BB8" letter-spacing=".8">FOCUS</text>
-    <text x="678" y="350" fill="#DCE6FF">3D Worlds · Web Apps</text>
+    <text x="618" y="364" fill="#647BB8" letter-spacing=".8">FOCUS</text>
+    <text x="678" y="364" fill="#DCE6FF">3D Worlds · Web Apps</text>
 
-    <text x="618" y="390" fill="#647BB8" letter-spacing=".8">STATUS</text>
-    <circle cx="683" cy="386" r="7.5" fill="#3DDC84" opacity=".18">
+    <text x="618" y="404" fill="#647BB8" letter-spacing=".8">STATUS</text>
+    <circle cx="683" cy="400" r="7.5" fill="#3DDC84" opacity=".18">
       <animate attributeName="r" values="4.5;9;4.5" dur="2.0s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".32;.04;.32" dur="2.0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="683" cy="386" r="3.8" fill="#3DDC84">
+    <circle cx="683" cy="400" r="3.8" fill="#3DDC84">
       <animate attributeName="opacity" values="1;.45;1" dur="2.0s" repeatCount="indefinite"/>
     </circle>
-    <text x="696" y="390" fill="#E8FFF2">Open to work</text>
+    <text x="696" y="404" fill="#E8FFF2">Open to work</text>
   </g>
 
   <!-- Minimal Bottom CTA -->

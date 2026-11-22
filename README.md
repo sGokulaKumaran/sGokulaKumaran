@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voyager_OS_01-05060A?style=for-the-badge&logo=rocket&logoColor=ffd479&labelColor=1b2a66)](https://gokulakumarans.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4.1-05060A?style=for-the-badge&logo=rocket&logoColor=ffd479&labelColor=1b2a66)](https://gokulakumarans.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokula_Kumaran-05060A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzZmZTNmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&labelColor=1b2a66)](https://www.linkedin.com/in/gokula-kumaran-s-503545328/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-05060A?style=for-the-badge&logo=gmail&logoColor=ff7a7a&labelColor=1b2a66)](mailto:gokulakumaran2007@gmail.com)
 [![RideWise](https://img.shields.io/badge/Live_app-RideWise-05060A?style=for-the-badge&logo=cloudflarepages&logoColor=7dffb0&labelColor=1b2a66)](https://ride-wise.pages.dev)
@@ -22,7 +22,7 @@ I'm a second-year B.Tech Computer Science and Business Systems student at Ramco 
 ```csharp
 public class Gokulakumarans : Developer
 {
-    public string[] Builds   = { "Game worlds", "Full-stack apps", "AI study tools" };
+    public string[] Builds   = { "RideWise (Live)", "Zyqra", "The Back Exit" };
     public string   Engine   = "Unity HDRP";
     public string[] Training = { "Cricket", "Ball badminton", "Chess" };
     public string   Status   = "Open to work";
@@ -119,11 +119,11 @@ A terrain system built on Perlin noise and procedural mesh generation, with octa
 ```mermaid
 timeline
     title Mission timeline
-    2023 : Realistic Forest HDRP : Unity 3D & Blender Foundations
-    2024 : Joined Ramco Institute of Technology (B.Tech CSBS) : Interactive Space Web Design (Portfolios) : Procedural Terrain & City Gen
-    2025 : RideWise Navigation & Fleet Platform : 24h KPR & RIT Hackathons
+    2024 : Joined Ramco Institute of Technology (B.Tech CSBS) : Interactive Space Web Design (Portfolios)
+    2025 : Started Zyqra & The Back Exit : Procedural Terrain & City Gen : 24h KPR & RIT Hackathons
+    Early 2026 : Realistic Forest HDRP (Jan 2026) : CODE Book SVG Motion Article (PPT) : Portfolio 4.1 (Latest Portfolio)
     Jun–Jul 2026 : Unity Game Dev Intern · Playxoft Studios : Python Full-Stack Intern · Skiez Technologies
-    Now : Building Zyqra (AI Study App) : Building The Back Exit (Horror Game) : Voyager OS 01 & FACET 01
+    Post-Intern – Now : RideWise Navigation & Fleet (Live) : Expanding Zyqra & The Back Exit : Voyager OS 01 & FACET 01
 ```
 
 <details>
