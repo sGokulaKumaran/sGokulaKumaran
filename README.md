@@ -120,8 +120,8 @@ A terrain system built on Perlin noise and procedural mesh generation, with octa
 timeline
     title Mission timeline
     2024 : Joined Ramco Institute of Technology (B.Tech CSBS) : Interactive Space Web Design (Portfolios)
-    2025 : Started Zyqra (AI Study App) : Completed The Back Exit Demo : 24h KPR & RIT Hackathons
-    Early 2026 : Realistic Forest HDRP (Jan 2026) : CODE Book SVG Motion Article (PPT) : Portfolio 4.1 (Latest Portfolio)
+    2025 : Started Zyqra & The Back Exit : 24h KPR & RIT Hackathons
+    Early 2026 : The Back Exit Demo Completed : Realistic Forest HDRP (Jan 2026) : CODE Book SVG Motion Article (PPT) : Portfolio 4.1 (Latest Portfolio)
     Jun–Jul 2026 : Unity Game Dev Intern · Playxoft Studios : Python Full-Stack Intern · Skiez Technologies
     Post-Intern – Now : RideWise Navigation & Fleet (Live) : Procedural Terrain & City Gen : Zyqra & The Back Exit (Full Game) : Voyager OS 01 & FACET 01
 ```
